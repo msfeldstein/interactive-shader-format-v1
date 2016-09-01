@@ -1,0 +1,14 @@
+{
+  "name": "interactive-shader-format-v1",
+  "version": "1.0.0",
+  "description": "ISF Library locked at v1 to enable multiple version usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Feldstein <msfeldstein@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "interactive-shader-format": "1.0.1"
+  }
+}
