@@ -1,5 +1,5 @@
 {
-  "name": "interactive-shader-format-v1",
+  "name": "@msfeldstein/interactive-shader-format-v1",
   "version": "1.0.0",
   "description": "ISF Library locked at v1 to enable multiple version usage",
   "main": "index.js",
